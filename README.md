@@ -42,6 +42,8 @@
 
 上面4个列表的内容一模一样，任意选择一个即可。
 
+推荐使用：`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
+
 示例图：
 
 ![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
