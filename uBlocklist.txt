@@ -1,5 +1,5 @@
 
- Update: 2020-08-02 08:05:57 UTC+0800
+ Update: 2020-08-02 20:13:58 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1122,6 +1122,7 @@
 *://bloomingtonventures.com/*
 *://books.google.co.uk/*
 *://books.google.com.tw/*
+*://books.google.ru/*
 *://bradstreetcra.com/*
 *://brrmn.com/*
 *://bryanalders.com/*
@@ -1143,6 +1144,7 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codeday.me/*
+*://codeleading.com/*
 *://codertw.com/*
 *://codetd.com/*
 *://copyfuture.com/*
@@ -1179,6 +1181,7 @@
 *://gundvd.com/*
 *://gvkv.apollostar-safari.de/*
 *://gyrh.dackel-vom-raeuberwaeldchen.de/*
+*://hacpai.com/*
 *://hdmseafood.com/*
 *://heoz.galabau-mg.de/*
 *://hjzf8899.com/*
@@ -1187,6 +1190,7 @@
 *://hzhjjx.com/*
 *://iamlishuo.com/*
 *://iask.sina.com.cn/*
+*://ios.developreference.com/*
 *://ipkm.schuetzenbedarf-baur.de/*
 *://item.jd.com/*
 *://iter01.com/*
@@ -1216,6 +1220,7 @@
 *://m.361t.org/*
 *://m.abctbh.com/*
 *://m.aozhou8.com/*
+*://m.artqqsh.com/*
 *://m.ccdswl.com/*
 *://m.cnmmv.com/*
 *://m.copyan.com/*
@@ -1242,7 +1247,7 @@
 *://m.yangzhiguo.com/*
 *://m.yzlqzx.xyz/*
 *://m.zhuangku.com/*
-*://machbbs.com/**://52movs.com/*
+*://machbbs.com/*
 *://mamicode.com/*
 *://mayphatmaynen.com/*
 *://meifa.izhufu.net/*
@@ -1250,6 +1255,7 @@
 *://mnst.sport-dpo.de/*
 *://mostud.com/*
 *://mustafaaliduran.com/*
+*://my.oschina.net/*
 *://mytory.net/*
 *://mzlw.apollostar-safari.de/*
 *://natura-karite.com/*
@@ -1392,6 +1398,7 @@
 *://www.dama123.com/*
 *://www.dapaizixun.com/*
 *://www.darentang.org/*
+*://www.dayanzai.me/*
 *://www.dayupaiming.com/*
 *://www.diannaoxianka.com/*
 *://www.dianthink.com/*
@@ -1504,6 +1511,7 @@
 *://www.riji365.org/*
 *://www.runsem.com/*
 *://www.sejuku.net/*
+*://www.shangmayuan.com/*
 *://www.shbjbwx.com/*
 *://www.shejiedu.com/*
 *://www.shoudian.org/*
@@ -1544,6 +1552,7 @@
 *://www.whysw88.com/*
 *://www.wnt777.com/*
 *://www.wtnc.uk.com/*
+*://www.wuaisite.com/*
 *://www.xhsdzjys.com/*
 *://www.xiaozhaolaila.com/*
 *://www.xiaozhishi.net/*
@@ -1559,6 +1568,7 @@
 *://www.yiyisoft.com/*
 *://www.ymw.cn/*
 *://www.zgxnjc.com/*
+*://www.zhangfayuan.cn/**://52movs.com/*
 *://www.zhengrongshuo.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*
