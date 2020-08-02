@@ -18,8 +18,9 @@
 # 用法：
 
 ### 一、下载 uBlacklist 浏览器插件：
-- Chrome： [https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)
-- Firefox： [https://addons.mozilla.org/en-US/firefox/addon/ublacklist](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
+- Chrome： <https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
+- Firefox： <https://addons.mozilla.org/en-US/firefox/addon/ublacklist/>
+- Edge：<https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe>
 
 ### 二、设置插件
 
