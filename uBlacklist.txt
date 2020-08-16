@@ -1,5 +1,5 @@
 
- Update: 2020-08-09 08:07:18 UTC+0800
+ Update: 2020-08-16 08:06:11 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -1358,6 +1358,7 @@
 *://www.6tuba.com/*
 *://www.7711182.com/*
 *://www.7lg.net/*
+*://www.7v0.com/*
 *://www.88xiao.com/*
 *://www.9999ktv.com/*
 *://www.ab2s.com/*
@@ -1475,6 +1476,7 @@
 *://www.lanzhouzaixian.cn/*
 *://www.liiix.com/*
 *://www.linjiaxiaohui.cn/*
+*://www.lmonkey.com/**://52movs.com/*
 *://www.lnmonet.com/*
 *://www.manew.com/*
 *://www.mei521.com/*
@@ -1517,6 +1519,7 @@
 *://www.shoudian.org/*
 *://www.shsgy.com/*
 *://www.shuzhiduo.com/*
+*://www.sjzoubg.com/*
 *://www.sldfc.cn/*
 *://www.solves.com.cn/*
 *://www.ssf.cc/*
@@ -1568,7 +1571,7 @@
 *://www.yiyisoft.com/*
 *://www.ymw.cn/*
 *://www.zgxnjc.com/*
-*://www.zhangfayuan.cn/**://52movs.com/*
+*://www.zhangfayuan.cn/*
 *://www.zhengrongshuo.com/*
 *://www.zhetiaohe.com/*
 *://www.zhipanyou.com/*

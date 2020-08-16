@@ -1,4 +1,4 @@
- Update: 2020-08-09 08:07:18 UTC+0800
+ Update: 2020-08-16 08:06:11 UTC+0800
 *://*.005i.com/*
 *://*.01-123.com/*
 *://*.01-800.cn/*
@@ -71220,7 +71220,10 @@ zzzzbj.com
 *://hacpai.com/*
 *://www.shangmayuan.com/*
 *://www.wuaisite.com/*
-*://www.zhangfayuan.cn/**://52movs.com/*
+*://www.zhangfayuan.cn/*
+*://www.7v0.com/*
+*://www.sjzoubg.com/*
+*://www.lmonkey.com/**://52movs.com/*
 *://66.wendadaohang.com/*
 *://adsc.krank-durch-mobilfunk.de/*
 *://aeam.nervenbahnmassage.de/*
