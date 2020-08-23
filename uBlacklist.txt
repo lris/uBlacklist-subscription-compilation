@@ -1,5 +1,5 @@
 
- Update: 2020-08-16 08:06:11 UTC+0800
+ Update: 2020-08-23 08:07:53 UTC+0800
 *://*.001nlp.com/*
 *://*.005i.com/*
 *://*.01-123.com/*
@@ -42,6 +42,8 @@
 *://*.1r1g.com/*
 *://*.20122011.org/*
 *://*.202.108.8.89/*
+*://*.23scg.cn/*
+*://*.252yy.net/*
 *://*.2996299.com/*
 *://*.2a2d75.dcmir4f.com/*
 *://*.30333.loan/*
@@ -52,6 +54,7 @@
 *://*.360du.net.cn/*
 *://*.361t.org/*
 *://*.366service.com/*
+*://*.38953h.cn/*
 *://*.392623.com/*
 *://*.3d.54882.com/*
 *://*.3daima.com/*
@@ -66,8 +69,10 @@
 *://*.4743.loan/*
 *://*.4910.com/*
 *://*.4blc.com/*
+*://*.4c94.cn/*
 *://*.4fei.cn/*
 *://*.4r8.nfjhn.com/*
+*://*.507q96.cn/*
 *://*.51ttxue.com/*
 *://*.520bdy.com/*
 *://*.5467.com/*
@@ -81,11 +86,13 @@
 *://*.59177.net/*
 *://*.5azy.com/*
 *://*.5eso.com/*
+*://*.5k33i.cn/*
 *://*.5pk.ah.2j0.iyu.y7.l99.m.7d6y.com/*
 *://*.611fu.com/*
 *://*.666so.cn/*
 *://*.68suan.com/*
 *://*.68xi.com/*
+*://*.6ke89.cn/*
 *://*.6zhen.cn/*
 *://*.710dnuv.com/*
 *://*.71top.com/*
@@ -97,6 +104,7 @@
 *://*.7dianying.com/*
 *://*.7gt80.com/*
 *://*.7k7k.com/*
+*://*.807z8.cn/*
 *://*.818497.39164.com/*
 *://*.842504.com/*
 *://*.850310.com/*
@@ -122,6 +130,7 @@
 *://*.9kantv.net/*
 *://*.9wxs.com/*
 *://*.9yyu.com/*
+*://*.a372.cn/*
 *://*.abadisurvey.com/*
 *://*.abbyychina.com/*
 *://*.abks.hfges.top/*
@@ -134,6 +143,7 @@
 *://*.aliziarealestate.com/*
 *://*.allweblink.com/*
 *://*.almtlakes.org/*
+*://*.amzalborz.com/*
 *://*.anderson-machineries.com/*
 *://*.androidcookie.com/*
 *://*.andseclab.com/*
@@ -177,6 +187,7 @@
 *://*.bbsah.com/*
 *://*.bbsmax.com/*
 *://*.bcajw.com/*
+*://*.bdqxgw.com/*
 *://*.bdw365.com/*
 *://*.be.findeen.com/*
 *://*.becreativeblog.com/*
@@ -204,6 +215,7 @@
 *://*.boschgl.com/*
 *://*.bu-shen.com/*
 *://*.bullforyou.com/*
+*://*.bunnyinside.com/*
 *://*.buylun.com/*
 *://*.bvjpsb.net/*
 *://*.byadd.com/*
@@ -237,10 +249,12 @@
 *://*.classicalguitarandbeyond.com/*
 *://*.cn.com/*
 *://*.cnpython.com/*
+*://*.code-adviser.com/*
 *://*.code-examples.net/*
 *://*.code.i-harness.com/*
 *://*.codebug.vip/*
 *://*.codeday.me/*
+*://*.codeflow.site/*
 *://*.codenong.com/*
 *://*.coder.work/*
 *://*.codesoftchina.com/*
@@ -328,6 +342,7 @@
 *://*.fnk.seqe.org.cn/*
 *://*.fofa.so/*
 *://*.formysql.com/*
+*://*.forsenergy.com/*
 *://*.free-lunwen.com/*
 *://*.friga.de/*
 *://*.fsyingxin.com/*
@@ -339,6 +354,7 @@
 *://*.gaiwen.com/*
 *://*.gametalk.site/*
 *://*.gaojiq.cn/*
+*://*.gbfgg.cn/*
 *://*.gcyfd.shop/*
 *://*.gd12121.com/*
 *://*.geiso.cn/*
@@ -354,6 +370,7 @@
 *://*.goldwavechina.cn/*
 *://*.googqi.com/*
 *://*.gouo.cn/*
+*://*.grinstreet.ru/*
 *://*.gufen138.com/*
 *://*.guilinshouji.com/*
 *://*.guitarpro.cc/*
@@ -386,6 +403,7 @@
 *://*.hfflvfc.site/*
 *://*.hgfzf.cn/*
 *://*.hgmfy.cn/*
+*://*.hgqbq.cn/*
 *://*.hicaopan.com/*
 *://*.highdesertboutiquevendors.com/*
 *://*.hitalk.site/*
@@ -467,6 +485,7 @@
 *://*.jusoso.com/*
 *://*.jx.tmall.com/*
 *://*.jzhyfrp.com/*
+*://*.k3m8dr.cn/*
 *://*.kabaresta.com/*
 *://*.kafan.cn/*
 *://*.kaitianqi.com/*
@@ -477,9 +496,11 @@
 *://*.kerrismn.com/*
 *://*.keyshot.cc/*
 *://*.kfffk.com/*
+*://*.kk159p.cn/*
 *://*.kknews.cc/*
 *://*.kkth.xj.cn/*
 *://*.klian.com/*
+*://*.kotaeta.com/*
 *://*.koubeiblog.com/*
 *://*.ksxianglu.com/*
 *://*.kuaibo.com/*
@@ -489,6 +510,7 @@
 *://*.kubh.lkcpz.download/*
 *://*.kutu66.com/*
 *://*.kxwo.com/*
+*://*.l3x3.cn/*
 *://*.lai18.com/*
 *://*.landcareweb.com/*
 *://*.lanzhouyangsheng.com/*
@@ -501,6 +523,7 @@
 *://*.linksure.cn/*
 *://*.linqq.net/*
 *://*.live1234.com.cn/*
+*://*.living-sun.com/*
 *://*.liwu.bi/*
 *://*.lizhidy.com/*
 *://*.lkjfglass.com/*
@@ -518,6 +541,7 @@
 *://*.lvv2.com/*
 *://*.lxway.com/*
 *://*.ly-sz1y.com/*
+*://*.lyy57.cn/*
 *://*.lzf2012.usa10.sethost.cn/*
 *://*.m.so.jusoso.com/*
 *://*.m.svwlx.cn/*
@@ -538,6 +562,7 @@
 *://*.mdlpg.com/*
 *://*.mdlps.com/*
 *://*.mdlpt.com/*
+*://*.me348i.cn/*
 *://*.meirongbala.com/*
 *://*.meixiaqu.com/*
 *://*.mensconsignment.com/*
@@ -554,6 +579,7 @@
 *://*.moktime.com/*
 *://*.mosuo.com.cn/*
 *://*.mosuo.net/*
+*://*.mrslevin.com/*
 *://*.mt-v.com/*
 *://*.mtgrupovega.com/*
 *://*.mthmq.com/*
@@ -570,6 +596,7 @@
 *://*.mycleanmymac.com/*
 *://*.mycodeweb.com/*
 *://*.mytory.net/*
+*://*.nbyoho.com/*
 *://*.nenjiaren.com/*
 *://*.newcastle.net.cn/*
 *://*.news.baidu.cn/*
@@ -596,6 +623,7 @@
 *://*.oikm.net/*
 *://*.ojit.com/*
 *://*.okzixun.net/*
+*://*.oliobonamini.com/*
 *://*.oneho.cn/*
 *://*.oomake.com/*
 *://*.ooxy.esgpm.top/*
@@ -619,6 +647,7 @@
 *://*.photoplayhouse.com/*
 *://*.photozoomchina.com/*
 *://*.pigfun.cn/*
+*://*.pinxia.cc/*
 *://*.pitalitobicentenario.com/*
 *://*.platinumpro-online.com/*
 *://*.pledz.cn/*
@@ -633,6 +662,7 @@
 *://*.q5j.org/*
 *://*.q922.com/*
 *://*.qastack.cn/*
+*://*.qastack.jp/*
 *://*.qcuao.top/*
 *://*.qd.58.com/*
 *://*.qfjhb.cn/*
@@ -697,6 +727,7 @@
 *://*.search.discuz.qq.com/*
 *://*.search.taobao.com/*
 *://*.search8.taobao.com/*
+*://*.seedsbuddy.com/*
 *://*.sh-jieao.com/*
 *://*.shatangju.net/*
 *://*.shcg.cn/*
@@ -804,6 +835,7 @@
 *://*.tianjinlanyin.cn/*
 *://*.tianman602.com/*
 *://*.tihaofree.com/*
+*://*.tizuh.cn/*
 *://*.tjqncj.com/*
 *://*.tmeishi.com/*
 *://*.tmjd.27mai.com/*
@@ -832,6 +864,7 @@
 *://*.tw116.com/*
 *://*.tweets.seraph.me/*
 *://*.txfkc.com/*
+*://*.u158q5.cn/*
 *://*.uk.com/*
 *://*.uomgb.com/*
 *://*.uoobao.com/*
@@ -847,6 +880,17 @@
 *://*.vfbp.vqyew.loan/*
 *://*.vhnaea8.com/*
 *://*.vickarsgroup.com/*
+*://*.video10216-gov.top/*
+*://*.video12326-gov.top/*
+*://*.video12366-gov.top/*
+*://*.video12996-gov.top/*
+*://*.video14536-gov.top/*
+*://*.video14626-gov.top/*
+*://*.video16086-gov.top/*
+*://*.video16106-gov.top/*
+*://*.video18786-gov.top/*
+*://*.video6556-gov.top/*
+*://*.video8496-gov.top/*
 *://*.vimsky.com/*
 *://*.visionaras.com/*
 *://*.voidcc.com/
@@ -881,6 +925,7 @@
 *://*.wienfm.com/*
 *://*.wikioi.com/*
 *://*.wjxfpf.com/*
+*://*.wjxwlr.cn/*
 *://*.wkkkw.com/*
 *://*.wntzx.cn/*
 *://*.wnyu.cn/*
@@ -1028,6 +1073,7 @@
 *://*.yougaowang.com/*
 *://*.yqkk.ynzmb.loan/*
 *://*.yqso.cn/*
+*://*.ysboss.cn/*
 *://*.ysou.pw/*
 *://*.yteh.xpwqq.download/*
 *://*.ytswx.com/*
@@ -1056,6 +1102,7 @@
 *://*.zhidao.baidu.com/*
 *://*.zhidao.haosou.com/*
 *://*.zhihujingxuan.com/*
+*://*.zhipanyou.com/*
 *://*.zhizhusou.com/*
 *://*.zhongguogongyi.com/*
 *://*.zhongrunzx.com/*
@@ -1127,7 +1174,6 @@
 *://brrmn.com/*
 *://bryanalders.com/*
 *://bug200.com/*
-*://bunnyinside.com/*
 *://bvwc.lumea-verlag.de/*
 *://bynss.com/*
 *://cctsuzhou.cn/*
@@ -1142,11 +1188,9 @@
 *://cn.voidcc.com/*
 *://cn846.com/*
 *://code-examples.net/*
-*://code.i-harness.com/*
 *://codeday.me/*
 *://codeleading.com/*
 *://codertw.com/*
-*://codetd.com/*
 *://copyfuture.com/*
 *://cx.17house.com/*
 *://cyfq.women-selfdefense-regensburg.de/*
@@ -1172,7 +1216,6 @@
 *://eozy.vip-erfolgscoach.de/*
 *://feishuang406.com/*
 *://fmex.women-selfdefense-regensburg.de/*
-*://forsenergy.com/*
 *://fydqw.com/*
 *://gctm.shk-cux.de/*
 *://getm4.aiyanqing.com/*
@@ -1207,9 +1250,7 @@
 *://kj808.com/*
 *://kjch.ebaohui.cn/*
 *://kknews.cc/*
-*://kotaeta.com/*
 *://kuoe.vip-erfolgscoach.de/*
-*://living-sun.com/*
 *://llsc.mikeprange.de/*
 *://lojp.spiegleinportal.de/*
 *://longjin-art.com/*
@@ -1256,7 +1297,6 @@
 *://mostud.com/*
 *://mustafaaliduran.com/*
 *://my.oschina.net/*
-*://mytory.net/*
 *://mzlw.apollostar-safari.de/*
 *://natura-karite.com/*
 *://nbri.stephan-messling.de/*
@@ -1275,8 +1315,8 @@
 *://product.mxpkw.com/*
 *://product.pconline.com.cn/*
 *://qastack.cn/*
-*://qastack.jp/*
 *://qcke.plameco-nett.de/*
+*://qianruntai.com/*
 *://qiaofu66.blog.sohu.com/*
 *://qipai.coms.hk/*
 *://qooqo.ru/*
@@ -1293,8 +1333,6 @@
 *://sodocumentation.net/*
 *://sswhsign.com/*
 *://stackoom.com/*
-*://stackovernet.com/*
-*://stackoverrun.com/*
 *://support.huaweicloud.com/*
 *://sxcpsjapp.org/*
 *://taojinpu.cn/*
@@ -1356,6 +1394,7 @@
 *://www.600911.cn/*
 *://www.684758.com/*
 *://www.6tuba.com/*
+*://www.733mh.com/*
 *://www.7711182.com/*
 *://www.7lg.net/*
 *://www.7v0.com/*
@@ -1387,8 +1426,6 @@
 *://www.chinavolcan.com/*
 *://www.cmuswe.com/*
 *://www.cocoachina.com/*
-*://www.code-adviser.com/*
-*://www.codeflow.site/*
 *://www.codenong.com/*
 *://www.colabug.com/*
 *://www.cqchildren.com/*
@@ -1410,6 +1447,7 @@
 *://www.donnaspetcare.com/*
 *://www.drjordanmall.com/*
 *://www.dzydieo.site/*
+*://www.eddingmkt.com/*
 *://www.eternalcq.com/*
 *://www.exmlo.com/*
 *://www.f2qu.com/*
@@ -1447,7 +1485,6 @@
 *://www.illitpress.com/*
 *://www.imooc.com/*
 *://www.ispsd2015.com/*
-*://www.it-swarm.dev/*
 *://www.iteblog.com/*
 *://www.iteye.com/*
 *://www.itjie.com/*
@@ -1579,6 +1616,8 @@
 *://www.zjdfsm.com/*
 *://www.zrahh.com/*
 *://www.zui88.com/*
+*://www112200.com/*
+*://wwwc809.com/*
 *://x4x2.com/*
 *://xckd.hamsterkiste-deutsch.de/*
 *://xqdj.hahnbacher-fotos.de/*
@@ -1602,6 +1641,7 @@
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
+/it-swarm-\w+\.tech/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 0001113.com
 0001403.cn
